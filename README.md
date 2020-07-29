@@ -1,6 +1,6 @@
-# giphynav
+# ipod ui
 
-Giphy Nav bar 
+Ipod UI
 
 ## Getting Started
 
